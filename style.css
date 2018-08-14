@@ -21,17 +21,12 @@ nav {
   background-color: #000000;
 }
 
-.arrow {
-  float: left;
-  width: 5%;
-}
-
 .content {
   float: left;
   width: 95%;
 }
 
-.restaurant-list {
+.routes {
   padding-top: 65px;
   width: 100%;
   background-color: #e8eaed;
