@@ -13,6 +13,13 @@ body {
   width: 420px;
 }
 
+.eta {
+  text-align: right;
+  position: relative;
+  bottom: 22px;
+  font-size:14px;
+}
+
 nav {
   margin: 0 auto;
   padding: 15px 15px 15px 15px;
