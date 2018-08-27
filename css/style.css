@@ -4,7 +4,7 @@
 
 body {
   background-color: #333;
-  font-family: sans-serif;
+  font-family: Roboto;
   font-size: 16px;
 }
 
@@ -13,13 +13,9 @@ body {
   width: 420px;
 }
 
-.eta {
-  text-align: right;
-  position: relative;
-  bottom: 22px;
-  font-size:14px;
-}
+.navbar {
 
+}
 nav {
   margin: 0 auto;
   padding: 15px 15px 15px 15px;
@@ -28,12 +24,17 @@ nav {
   background-color: #000000;
 }
 
-.content {
-  float: left;
-  width: 95%;
+.arrow {
+  float: right;
+  width: 20%;
 }
 
-.routes {
+.content {
+  float: left;
+  width: 60%;
+}
+
+.restaurant-list {
   padding-top: 65px;
   width: 100%;
   background-color: #e8eaed;
@@ -42,6 +43,22 @@ nav {
 
 h1 {
   font-weight: bold;
+}
+
+.direction {
+  background-color: #F2C94C;
+  float: left;
+  margin: 3%;
+  padding: 2%;
+  width: 40%;
+}
+
+.busnum {
+  background-color: #6FCF97;
+  float: left;
+  width: 10%;
+  margin: 1%;
+  padding: 1%;
 }
 
 .location {
