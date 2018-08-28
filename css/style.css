@@ -4,7 +4,7 @@
 
 body {
   background-color: #333;
-  font-family: Roboto;
+  font-family: Helvetica Neue;
   font-size: 14px;
 }
 
@@ -25,9 +25,10 @@ nav {
 }
 
 .eta {
-  text-align: right;
+  float: right;
   display: inline-block;
-  /*width: 85%;*/
+  padding: 10px;
+  width: 40%;
 }
 
 /*.arrow {
@@ -37,6 +38,7 @@ nav {
 .content {
   text-align: left;
   display: inline-block;
+  padding: 10px;
   /*width: 100%;*/
 }
 
@@ -54,9 +56,13 @@ h1 {
 .direction {
   background-color: #F2C94C;
   float: left;
-  margin: 3%;
-  padding: 2%;
   width: 40%;
+  height: 34px;
+  padding: 10px;
+  margin: 3%;
+  /*margin: 3%;
+  padding: 10px;
+  width: 40%;*/
 }
 
 .busnum {
@@ -64,7 +70,7 @@ h1 {
   background-color: #6FCF97;
   text-align: center;
   float: left;
-width: 40px;
+  width: 40px;
   padding: 10px;
   margin: 0 auto;
 }
