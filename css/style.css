@@ -5,7 +5,7 @@
 body {
   background-color: #333;
   font-family: Helvetica Neue;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .container {
@@ -15,7 +15,7 @@ body {
 
 nav {
   margin: 0 auto;
-  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/HelveticaBB.jpg?raw=true);
+  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/Helveticawhite.jpg?raw=true);
   background-size: cover;
   padding: 32px;
   position: fixed;
@@ -30,10 +30,6 @@ nav {
   padding: 10px;
   width: 40%;
 }
-
-/*.arrow {
-
-}*/
 
 .content {
   text-align: left;
@@ -54,20 +50,23 @@ h1 {
 }
 
 .direction {
-  background-color: #F2C94C;
+  background-color: #6FCF97;
+  border-radius: 5px;
   float: left;
   width: 40%;
   height: 34px;
   padding: 10px;
   margin: 3%;
-  /*margin: 3%;
+  color: #4F4F4F;
+    /*margin: 3%;
   padding: 10px;
   width: 40%;*/
 }
 
 .busnum {
   display: inline-block;
-  background-color: #6FCF97;
+  border-radius: 5px;
+  background-color: #F2C94C;
   text-align: center;
   float: left;
   width: 40px;
