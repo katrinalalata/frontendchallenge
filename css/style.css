@@ -15,12 +15,12 @@ body {
 
 nav {
   margin: 0 auto;
-  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/Helveticawhite.jpg?raw=true);
+  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/navwhite.jpg?raw=true);
   background-size: cover;
   padding: 32px;
   position: fixed;
   width: 420px;
-  height: 65px;
+  height: 120px;
   background-color: #FFFFFF;
 }
 
