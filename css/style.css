@@ -5,7 +5,7 @@
 body {
   background-color: #333;
   font-family: Helvetica Neue;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .container {
@@ -16,12 +16,13 @@ body {
 
 nav {
   margin: auto;
-  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/navwhite.jpg?raw=true);
+  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/navwhite1.jpg?raw=true);
   padding: 32px;
   position: fixed;
   width: 420px;
   height: 114px;
   background-color: #FFFFFF;
+  font-size: 15px;
 }
 
 .eta {
