@@ -16,13 +16,48 @@ body {
 
 nav {
   margin: auto;
-  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/navwhite1.jpg?raw=true);
-  padding: 32px;
+  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/status.jpg?raw=true);
   position: fixed;
   width: 420px;
-  height: 114px;
+  height: 62px;
   background-color: #FFFFFF;
-  font-size: 15px;
+
+}
+
+.search {
+  margin: auto;
+  background-image: url(https://github.com/katrinalalata/frontendchallenge/blob/master/search.jpg?raw=true);
+  position: fixed;
+  width: 420px;
+  height: 105px;
+  background-color: #FFFFFF;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=text] {
+  border-radius: 8px;
+}
+
+.icon {
+  float: left;
+  width: 10%;
+  padding-top: 30px;
+  padding-left: 10px;
+  color: #999999;
+}
+
+h1 {
+  float: left;
+  padding: 30px 20px;
+  width: 80%;
+  font-size: 22px;
+  font-weight: bold;
+  color: #4F4F4F;
+  text-align: center;
 }
 
 .eta {
@@ -46,7 +81,7 @@ nav {
 
 }
 
-h1 {
+h2 {
   font-weight: bold;
 }
 
